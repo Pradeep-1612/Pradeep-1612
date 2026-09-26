@@ -24,6 +24,8 @@ Lead Software Engineer at **IBM** with **6+ years of experience** building scala
 - 🧩 Reusable architecture — **70%** productivity improvement, **81%** less duplicate code
 - 🏢 Self-service platform used by **1,500+ companies**
 
+![Impact by the Numbers](assets/impact-by-the-numbers.png)
+
 ---
 
 ### 🔭 Currently Exploring
