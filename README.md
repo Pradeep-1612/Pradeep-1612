@@ -36,13 +36,13 @@ Lead Software Engineer at **IBM** with **6+ years of experience** building scala
 
 ### 📫 Let's Connect
 
-📧 Email: juturupradeepkumarreddy@gmail.com
+📧 <a href="mailto:juturupradeepkumarreddy@gmail.com" target="_blank">juturupradeepkumarreddy@gmail.com</a>
 
-🌐 [Portfolio](https://pradeepreddyj-portfolio.vercel.app/)
+🌐 <a href="https://pradeepreddyj-portfolio.vercel.app/" target="_blank">Portfolio</a>
 
-💼 [LinkedIn](https://www.linkedin.com/in/pradeep-reddy-juturu/)
+💼 <a href="https://www.linkedin.com/in/pradeep-reddy-juturu/" target="_blank">LinkedIn</a>
 
-💻 [GitHub](https://github.com/Pradeep-1612)
+💻 <a href="https://github.com/Pradeep-1612" target="_blank">GitHub</a>
 
 
 ---
